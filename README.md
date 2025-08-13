@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muya1998&label=Profile%20views&color=0e75b6&style=flat" alt="muya1998" /> </p>
 
-- 🌱 I’m currently learning **Stable-diffusion AUTOMATIC1111, ComfyUI**
-
-- 💬 Ask me about **Stable-diffusion**
-
-- 📫 How to reach me **rlaangus98@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
